@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  background-color: dimgray;
+}
+.navbar {
+  background-color: black;
+  color: white;
+}
+main {
+  min-height: 100px;
+  width: 600px;
+  padding: 85px 25px 96px;
+  box-shadow: 0 0 12px -2px black;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  align-items: center;
+  margin-left: 100px;
+}
+
+
+.portfoliosection {
+  min-height: 100px;
+  width: 600px;
+  padding: 25px 25px 96px;
+  box-shadow: 0 0 12px -2px black;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  align-items: center;
+  margin-left: 100px;
+}
+
+h2 {
+  color: white;
+  align-items: center;
+}
+
+.about-section {
+  min-height: 100px;
+  width: 600px;
+  padding: 25px 25px 96px;
+  box-shadow: 0 0 12px -2px black;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  align-items: center;
+  margin-left: 100px;
+}
+
